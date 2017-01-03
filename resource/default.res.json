@@ -1,0 +1,200 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,chara1_png,chara10_png,chara11_png,chara12_png,chara13_png,chara14_png,chara15_png,chara16_png,chara17_png,chara18_png,chara19_png,chara2_png,chara20_png,chara21_png,chara22_png,chara23_png,chara24_png,chara25_png,chara26_png,chara3_png,chara4_png,chara5_png,chara6_png,chara7_png,chara8_png,chara9_png,chara_jpg,grass_jpg,road_jpg,gtanhao_png,gwenhao_png,npc_0_png,npc_1_png,ytanhao_png,ywenhao_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "chara1_png",
+			"type": "image",
+			"url": "assets/chara/chara1.png"
+		},
+		{
+			"name": "chara10_png",
+			"type": "image",
+			"url": "assets/chara/chara10.png"
+		},
+		{
+			"name": "chara11_png",
+			"type": "image",
+			"url": "assets/chara/chara11.png"
+		},
+		{
+			"name": "chara12_png",
+			"type": "image",
+			"url": "assets/chara/chara12.png"
+		},
+		{
+			"name": "chara13_png",
+			"type": "image",
+			"url": "assets/chara/chara13.png"
+		},
+		{
+			"name": "chara14_png",
+			"type": "image",
+			"url": "assets/chara/chara14.png"
+		},
+		{
+			"name": "chara15_png",
+			"type": "image",
+			"url": "assets/chara/chara15.png"
+		},
+		{
+			"name": "chara16_png",
+			"type": "image",
+			"url": "assets/chara/chara16.png"
+		},
+		{
+			"name": "chara17_png",
+			"type": "image",
+			"url": "assets/chara/chara17.png"
+		},
+		{
+			"name": "chara18_png",
+			"type": "image",
+			"url": "assets/chara/chara18.png"
+		},
+		{
+			"name": "chara19_png",
+			"type": "image",
+			"url": "assets/chara/chara19.png"
+		},
+		{
+			"name": "chara2_png",
+			"type": "image",
+			"url": "assets/chara/chara2.png"
+		},
+		{
+			"name": "chara20_png",
+			"type": "image",
+			"url": "assets/chara/chara20.png"
+		},
+		{
+			"name": "chara21_png",
+			"type": "image",
+			"url": "assets/chara/chara21.png"
+		},
+		{
+			"name": "chara22_png",
+			"type": "image",
+			"url": "assets/chara/chara22.png"
+		},
+		{
+			"name": "chara23_png",
+			"type": "image",
+			"url": "assets/chara/chara23.png"
+		},
+		{
+			"name": "chara24_png",
+			"type": "image",
+			"url": "assets/chara/chara24.png"
+		},
+		{
+			"name": "chara25_png",
+			"type": "image",
+			"url": "assets/chara/chara25.png"
+		},
+		{
+			"name": "chara26_png",
+			"type": "image",
+			"url": "assets/chara/chara26.png"
+		},
+		{
+			"name": "chara3_png",
+			"type": "image",
+			"url": "assets/chara/chara3.png"
+		},
+		{
+			"name": "chara4_png",
+			"type": "image",
+			"url": "assets/chara/chara4.png"
+		},
+		{
+			"name": "chara5_png",
+			"type": "image",
+			"url": "assets/chara/chara5.png"
+		},
+		{
+			"name": "chara6_png",
+			"type": "image",
+			"url": "assets/chara/chara6.png"
+		},
+		{
+			"name": "chara7_png",
+			"type": "image",
+			"url": "assets/chara/chara7.png"
+		},
+		{
+			"name": "chara8_png",
+			"type": "image",
+			"url": "assets/chara/chara8.png"
+		},
+		{
+			"name": "chara9_png",
+			"type": "image",
+			"url": "assets/chara/chara9.png"
+		},
+		{
+			"name": "chara_jpg",
+			"type": "image",
+			"url": "assets/chara.jpg"
+		},
+		{
+			"name": "grass_jpg",
+			"type": "image",
+			"url": "assets/grass.jpg"
+		},
+		{
+			"name": "road_jpg",
+			"type": "image",
+			"url": "assets/road.jpg"
+		},
+		{
+			"name": "gtanhao_png",
+			"type": "image",
+			"url": "assets/gtanhao.png"
+		},
+		{
+			"name": "gwenhao_png",
+			"type": "image",
+			"url": "assets/gwenhao.png"
+		},
+		{
+			"name": "npc_0_png",
+			"type": "image",
+			"url": "assets/npc_0.png"
+		},
+		{
+			"name": "npc_1_png",
+			"type": "image",
+			"url": "assets/npc_1.png"
+		},
+		{
+			"name": "ytanhao_png",
+			"type": "image",
+			"url": "assets/ytanhao.png"
+		},
+		{
+			"name": "ywenhao_png",
+			"type": "image",
+			"url": "assets/ywenhao.png"
+		}
+	]
+}
